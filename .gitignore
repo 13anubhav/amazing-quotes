@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variable file
+.env
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+logs
+*.log
+
+# Output of npm (packaged files)
+*.tgz
+
+# Yarn
+.yarn/
+.yarnrc
+
+# OS generated files
+.DS_Store
+Thumbs.db

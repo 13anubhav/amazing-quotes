@@ -1,0 +1,36 @@
+{
+  "name": "amazing-quotes",
+  "version": "1.0.12",
+  "description": "Amazing Quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13anubhav/amazing-quotes.git"
+  },
+  "keywords": [
+    "Amazing",
+    "Quotes",
+    "Life-quotes",
+    "Inspirational",
+
+    "Motivational",
+    "Wisdom",
+    "Famous Quotes",
+    "Quote Generator",
+    "Positive Quotes",
+    "Daily Quotes"
+  ],
+  "author": "Anubhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13anubhav/amazing-quotes/issues"
+  },
+  "homepage": "https://github.com/13anubhav/amazing-quotes#readme",
+  "dependencies": {
+    "publish": "^0.6.0"
+  }
+ 
+}
